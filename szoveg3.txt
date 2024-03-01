@@ -1,0 +1,3 @@
+Elkelk poszt s¡tottalan¡tott tok^Z
+
+copy con szoveg3.txt
